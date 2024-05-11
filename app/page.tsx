@@ -45,7 +45,7 @@ export default function Page() {
                   />
               </div>
           </div>
-          <h1 className="text-blue-500">I'm blue!</h1>
+          <h1 className="text-blue-500">I&aposm blue!</h1>
           <div
               className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
           />
